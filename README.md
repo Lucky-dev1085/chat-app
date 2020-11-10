@@ -20,4 +20,4 @@ cd server-side && npm run start
 ```
 - Version: 1.0.0
 - License: MIT
-- Author: Eric
+- Author: Lucky
